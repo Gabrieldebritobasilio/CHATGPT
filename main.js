@@ -1,4 +1,4 @@
-// Chave de API do OpenAI
+
 const apiKey = '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'
 
 function sendMessage(){
